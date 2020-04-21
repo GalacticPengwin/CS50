@@ -9,3 +9,5 @@ I would be putting my solutions to the coursework here, according to the weeks. 
 
 Its my first time on GitHub as well, so forgive me if things are a little messy. I'm still learning!
 Drop me a note if you have advice and recommendations to make!
+
+GP
