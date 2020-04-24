@@ -32,7 +32,7 @@ int main(int argc, string argv[])
                 for (i = c + 1; argv[1][i] != '\0'; i++)
                 {
                     //if char is repeated, terminate
-                    if (argv[1][c] == argv[1][i])
+                    if (tolower(argv[1][c]) == tolower(argv[1][i]))
                     {
                         printf("Key must contain 26 non-repeating alphabetic characters.\n");
                         return 1;
